@@ -1,0 +1,23 @@
+Exercício Mod-6
+Lógica dos passos para acordar de manhã e escovar os dentes.
+
+INÍCIO
+    1 - Abrir os olhos
+    2 - Verificar se já está na hora de levantar? Sim
+        1 - Levantar da Cama
+        2 - Calçar os chinelos
+        3 - Andar até o banheiro
+        4 - Se a porta estiver aberta? Se Sim
+            1 - Entrar no banheiro
+        5 - Se a porta não estiver aberta? Se Não
+            1 - Colocar a mão na fechadura
+            2 - Girar a maçaneta 360
+            4 - Eempurrar a porta
+            5 - Entrar no banheiro
+        6 - Caminhar até a pia
+        7 - Pegar a escova de dentes
+        8 - Pegar a pasta de dentes
+        9 - Escovar os dentes
+    3 - Não
+        1 - Continuar dormindo
+FIM
