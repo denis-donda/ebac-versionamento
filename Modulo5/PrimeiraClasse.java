@@ -1,4 +1,4 @@
-package Mod5.PromeiroProjeto;
+package Modulo5;
 
 public class PrimeiraClasse {
     public static void main(String[] args) {
